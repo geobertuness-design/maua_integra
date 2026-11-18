@@ -1,0 +1,17 @@
+MAUÁ INTEGRA — PROTÓTIPO EXPANDIDO
+
+Como abrir:
+1. Baixe e extraia o arquivo ZIP.
+2. Abra a pasta maua_integra_site.
+3. Dê dois cliques em index.html para abrir no navegador.
+
+Novas áreas:
+- Calendário anual de janeiro a dezembro com sugestões de ações.
+- Aba Projeto detalhado: contexto, objetivo, público, frentes de atuação, funcionamento e resultados esperados.
+- Solicitação de conversa com veterano: curso, período, formato, tema, disponibilidade e dúvidas.
+- Pesquisa de experiência do encontro com 14 perguntas e campos abertos.
+
+Importante:
+É um protótipo front-end acadêmico. Não possui login, banco de dados, cadastro de veteranos,
+integração com sistemas da Mauá ou envio/armazenamento real de respostas. Calendário e
+atividades são sugestões ilustrativas, não datas oficiais. Não é um canal oficial da Mauá.
